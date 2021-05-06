@@ -3,11 +3,11 @@
 
 I am considering spacecrafts and its observations which are organised by NASA, USA.
 
-The special help is providing by Prof. Andrew J. Coates (PI of Electron spectrometer-ELS), Prof. Dhiren Kataria of Mullard Space Science Laboratory (MSSL),University College London (UCL),UK and from my First Supervisor Prof. Rajmal D. jain (RAS Fellow).
+The special help is providing by Prof. Andrew J. Coates (PI of Electron spectrometer-ELS), Prof. Dhiren Kataria of Mullard Space Science Laboratory (MSSL),University College London (UCL),UK and from my First Supervisor Prof. Rajmal D. jain (Retired PRL Scientist, RAS Fellow).
 
 I am trained by CCMC modelling center, NASA, USA.
     
-I am experienced person in Material Science (PVD & Sputtering) with R&D experiments (Silver Cell, Ceramics & Magnetic Thrusters) and Characterizations from Institute for Plasma Research, India.
+I am experienced person in Material Science (PVD & Sputtering) with R&D experiments (Silver Cell, Ceramics & Magnetic Thrusters) and Characterizations from Institute for Plasma Research, India under sthe supervision of Dr. Mukesh Ranjan, Scientific Officer-G, IPR India.
 
 In addition of these, I also worked as a lecturer, proofreader, translator and Quality Control Chemist (Pharma).
 
