@@ -4,7 +4,7 @@ I am Tushar N. Bhatt and doing Space Weather Research (SWR). The research is imp
 
 I am considering spacecrafts and its observations which are organised by NASA, USA.
 
-The special help is providing by Prof. Andrew J. Coates (PI of Electron spectrometer-ELS, CASSINI Mission), Prof. Dhiren Kataria of Mullard Space Science Laboratory (MSSL),University College London (UCL),UK and from my First Supervisor Prof. Rajmal D. jain (Retired PRL Scientist & PI of SOXS Mission, RAS Fellow).
+The special help is providing by Prof. Andrew J. Coates (PI of Electron spectrometer-ELS, CASSINI Mission), Prof. Dhiren Kataria of Mullard Space Science Laboratory (MSSL),University College London (UCL),UK and from my First Supervisor Prof. Rajmal D. jain (Retired PRL Scientist, PI of SOXS Mission & RAS Fellow).
 
 I am trained by CCMC modelling center, NASA, USA.
     
