@@ -1,6 +1,6 @@
 # profile
 
-I am Tushar N. Bhatt and doing Space Weather Research (SWR). The research is important to know how our neighbour planets behave comparitively to Earth. The study will help us to fulfill our curiosity about Earth's past, Present and Future in the space for human being survival purpose.
+I am Tushar N. Bhatt and doing Space Weather Research (SWR). The research is important to know how our neighbouring planets behave comparitively to Earth. The study will help us to fulfill our curiosity about Earth's past, Present and Future in the space for human being survival purpose.
 
 I am considering spacecrafts and its observations which are organised by NASA, USA.
 
