@@ -1,5 +1,6 @@
 # profile
-👋 Hi, I’m Tushar N. Bhatt and doing Space Weather Research (SWR). The research is important to know how our neighbour planets behave comparitively to Earth. The study will help us to fulfill our curiosity about Earth's past, Present and Future in the space for human being survival purpose.
+
+I am Tushar N. Bhatt and doing Space Weather Research (SWR). The research is important to know how our neighbour planets behave comparitively to Earth. The study will help us to fulfill our curiosity about Earth's past, Present and Future in the space for human being survival purpose.
 
 I am considering spacecrafts and its observations which are organised by NASA, USA.
 
@@ -12,6 +13,8 @@ I am experienced person in Material Science (PVD & Sputtering) with R&D experime
 In addition of these, I also worked as a lecturer, proofreader, translator and Quality Control Chemist (Pharma).
 
 I am crazy to do and learn new things and so I am also trying to develop my computer coding skills and try to achieve goals for Front-end, Back-end and Full-stack developer programmes. 
+
+I am interested to work for Physical Vapor Deposition, Instrumentation, Operation of Characterization Instruments, Solar Physics & Space Weather Research. I am also ready for online work like programming, Website & logo design, translation (English-Hindi-Gujarati), proof reading(English-Hindi-Gujarati), Coaching of Maths, Physics, Electronics subject, Coding, etc.
 
 <!---
 tushar-tb2/tushar-tb2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.You can click the Preview link to take a look at your changes.
