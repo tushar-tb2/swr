@@ -10,6 +10,6 @@ In addition of all of above, I am an experienced person for R&D in Material Scie
 
 In addition of these, I also worked as a Lecturer, Quality Control Chemist (Pharma), Translator and Proofreader.
 
-I am crazy to do and learn new things and so I am also trying to develop my computer coding skill and try to achieve goals for Front-end, Back-end and Full-stack developer skills. For these, right now, I am using VScode, html, CSS and github. After getting satisfactory skill, I am in plan to include javascript, php and python. Then, I will see what other new things I can do with these.
+I am crazy to do and learn new things and so I am also trying to develop my computer coding skill and try to achieve goals for Front-end, Back-end and Full-stack developer skills. For these, right now, I am using VScode, html, CSS and github. After getting satisfactory skills, I am in plan to include javascript, php and python. Then, I will see what other new things I can do with these.
 
 I am interested and ready to work for Physical Vapor Deposition, Instrumentation with maintanance, Operation of Characterization Instruments and Solar Physics & Space Weather Research data analysis. I am also ready for online work like Programming, Website & logo design, Translation (English-Hindi-Gujarati), Proof reading (Maths, Science, Physics), Coaching of Maths, Physics, Electronics subject, Coding, etc.
