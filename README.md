@@ -10,8 +10,12 @@ In addition of all of above, I am an experienced person for R&D in Material Scie
 
 In addition of these, I also worked as a Quality Control Chemist (Pharmaceutical-Formulation lab) with US, BP & IP medicinal drug protocols with Dr. Priti Pandya, QC Head & Dr. Sunil Khanna, QA Head. The whole unit was directed by Dr. Vikram, Director, Jay Formulations Ltd.
 
-With all above experimental profile, I was also worked as a Lecturer (Degree & Diploma). During lecturer post, A team of two diploma student were submitted a 3D Cam measure project (under my supervision) which was rewarded by 650 US dollar & offer of jobs to these students by RED HAT, california, USA. I also worked as a Translator (SWAYAM, Govt. of India) and Proofreader (Kumar Prakashan Kendra maths, science, physics, biology with Mr. Hetal Shah).  
+With all above experimental profile, I also worked as a Lecturer (Degree & Diploma). During lecturer post, A team of two diploma students were submitted a 3D Cam Measure project (under my supervision) which was rewarded by 650 US dollar & offer of jobs after their degree engineering studies completion. RED HAT is also offering us to work with similar kind of projects. I also worked as a Proofreader (Kumar Prakashan Kendra, Ahmedabad) for maths, science, physics, biology subjects with Mr. Hetal Shah, Head.
+
+Right Now, I am appointed as a Translator (SWAYAM online & broadcasting project, Govt. of India) for engineering physics.
 
 I am crazy to do and learn new things and so I am also trying to develop my computer coding skills and try to achieve goals for Front-end, Back-end and Full-stack developer skills. For these, right now, I am using VScode, html, CSS and github. After getting satisfactory skills, I am in plan to include javascript, php and python. Then, I will see what other new things I can do with these.
 
-I am interested and ready to work for Physical Vapor Deposition, Instrumentation with maintanance, Operation of Characterization Instruments and Solar Physics & Space Weather Research data analysis. I am also ready for online work like Programming, Website & logo design, Translation (English-Hindi-Gujarati), Proof reading (Maths, Science, Physics), Coaching of Maths, Physics, Electronics subject, Coding, etc.
+I am also investing in mutual funds with proven profit of 11-15%.
+
+I am interested and ready to work for Physical Vapor Deposition, Instrumentation with maintanance, Operation of Characterization Instruments and Solar Physics & Space Weather Research data analysis, lecturer. I am also ready for online work like Programming, Website & logo design, Translation (English-Hindi-Gujarati), Proof reading (Maths, Science, Physics), Coaching of Maths, Physics, Electronics subject, Coding, etc.
