@@ -20,4 +20,4 @@ I am crazy to do and learn new things and so I am also trying to develop my comp
 
 I am also investing in mutual funds with proven profit of 11-15%.
 
-I am interested and ready to work for Physical Vapor Deposition, Instrumentation with maintanance, Operation of Characterization Instruments and Solar Physics & Space Weather Research data analysis, lecturer. I am also ready for online work like Programming, Website & logo design, Translation (English-Hindi-Gujarati), Proof reading (Maths, Science, Physics), Coaching of Maths, Physics, Electronics subject, Coding, etc.
+I am interested and ready to work for Physical Vapor Deposition, Instrumentation with maintanance, Operation of Characterization Instruments and Solar Physics & Space Weather Research data analysis, lecturer. I am also ready for online work like Programming, Website & logo design, Translation (English-Hindi-Gujarati), Proof reading (Maths, Science, Physics), Coaching of Maths, Physics, Electronics, Coding, etc.
