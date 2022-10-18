@@ -20,4 +20,4 @@ I am crazy to do and learn new things and so I am also trying to develop my comp
 
 I am interested and ready to work for Physical Vapor Deposition, Instrumentation with maintenance, Operation of Characterization Instruments and Solar Physics & Space Weather Research data analysis. 
 
-I am also ready for online work like Programming, Website & logo design, Translation (English-Hindi-Gujarati), Proof reading (Maths, Science, Physics), Coaching for Physics, Electronics, Maths, Coding, etc.
+I am also ready for online work like Website & logo design, Translation (English-Hindi-Gujarati), Proof reading (Maths, Science, Physics), Coaching for Physics, Electronics, Maths, Coding, etc.
