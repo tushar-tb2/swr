@@ -1,6 +1,6 @@
 # profile
 
-I am Tushar N. Bhatt and doing Space Weather Research (SWR) data analysis for PhD work. The research is important to know how our neighbouring planets behave comparatively to Earth when influenced by solar transients i.e., coronal mass ejections, corotating interaction regions. The study will help us to fulfil our curiosity about Earth's Past, Present and Future in the space for human being’s survival purpose & satellite communications. 
+I am Tushar N. Bhatt and doing Space Weather Research (SWR) data analysis for PhD work. The research is important to know how our neighbouring planets behave comparatively to Earth when influenced by solar transients i.e., coronal mass ejections, corotating interaction regions. The study helps to fulfil our curiosity about Earth's Past, Present and Future in the space for human being’s survival purpose & satellite communications. 
 
 For my research work, I am considering various spacecrafts observations with CCMC models which are organised by NASA, USA.
 
