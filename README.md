@@ -12,14 +12,10 @@ In addition of all of above, I (Junior Research Fellow) am an experienced person
 
 In addition of these, I also worked as a Quality Control Chemist (Pharmaceutical-Formulation lab) with US, BP & IP medicinal drug protocols with Dr. Priti Pandya, QC Head & Dr. Sunil Khanna, QA Head. The whole unit was directed by Dr. Vikram, Director, Jay Formulations Ltd.
 
-With all above experimental profile, I also worked as a Lecturer (Degree & Diploma). During lecturer post, a team of two diploma students were submitted a 3D Cam Measure project (under my supervision) which was rewarded by 650 US dollar & offer of jobs after their degree engineering studies completion. RED HAT is also offering us to work with similar kind of projects. I also worked as a Proofreader (Kumar Prakashan Kendra, Ahmedabad) for maths, science, physics, biology subjects with Mr. Hetal Shah, Head.
+With all above experimental profile, I also worked as a Lecturer (Degree & Diploma). During lecturer post, a team of two diploma students were submitted a 3D Cam Measure project (under my supervision) which was rewarded by 650 US dollar & offer of jobs after their degree engineering studies completion. RED HAT is also offering us to work with similar kind of projects. I also worked as a Proofreader (Kumar Prakashan Kendra, Ahmedabad) for maths, science, physics, biology subjects.
 
 Right Now, I am appointed as a Translator (SWAYAM online & broadcasting project, Govt. of India) for engineering physics.
 
 I am crazy to do and learn new things and so I am also trying to develop my computer coding skills and try to achieve goals for Front-end, Back-end and Full-stack developer skills. For these, right now, I am using VScode, html, CSS and github. After getting satisfactory skills, I am in plan to include javascript, php and python. Then, I will see what other new things I can do with these.
 
-I am also investing in mutual funds with proven profit of 11-15%.
-
 I am interested and ready to work for Physical Vapor Deposition, Instrumentation with maintenance, Operation of Characterization Instruments and Solar Physics & Space Weather Research data analysis, lecturer. I am also ready for online work like Programming, Website & logo design, Translation (English-Hindi-Gujarati), Proof reading (Maths, Science, Physics), Coaching for Maths, Physics, Electronics, Coding, etc.
-
-After all of this, my intention is to do a job because I can not continue PhD without money support. So I need to leave or need to do parallel progress in PhD.
