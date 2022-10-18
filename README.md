@@ -16,6 +16,6 @@ With all above experimental profile, I also worked as a Lecturer (Degree & Diplo
 
 Right Now, I am appointed as a Translator (SWAYAM online & broadcasting project, Govt. of India) for engineering physics.
 
-I am crazy to do and learn new things and so I am also trying to develop my computer coding skills and try to achieve goals for Front-end, Back-end and Full-stack developer skills. For these, right now, I am using VScode, html, CSS and github. After getting satisfactory skills, I am in plan to include javascript, php and python. Then, I will see what other new things I can do with these.
+I am crazy to do and learn new things and so I am also trying to develop my computer coding skills and try to achieve goals for Front-end, Back-end and Full-stack developer skills. For these, right now, I am using VScode, html, CSS and github. After getting satisfactory skills, I am in plan to include javascript, php and python and data science. 
 
 I am interested and ready to work for Physical Vapor Deposition, Instrumentation with maintenance, Operation of Characterization Instruments and Solar Physics & Space Weather Research data analysis, lecturer. I am also ready for online work like Programming, Website & logo design, Translation (English-Hindi-Gujarati), Proof reading (Maths, Science, Physics), Coaching for Maths, Physics, Electronics, Coding, etc.
