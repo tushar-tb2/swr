@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "c:\\Users\\tushar\\OneDrive\\Documents\\GitHub\\tushar-tb2\\swr",
+			"problemMatcher": [
+				"$python"
+			],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}
