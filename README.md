@@ -8,7 +8,7 @@ My doctoral research focuses on understanding how our neighboring planets behave
 
 * **Methodology:** I utilize various spacecraft observations alongside Community Coordinated Modeling Center (CCMC) models organized by NASA (USA).
 * **Collaborators & Support:** This research is made possible with invaluable support from Prof. Andrew J. Coates (PI of ELS/CAPS, Cassini Mission), Prof. Dhiren Kataria (Professorial Research Associate), and Mr. Paul Prior (Linux System Administrator) at the Mullard Space Science Laboratory (MSSL), University College London (UCL), UK. I am also guided by my first supervisor, Prof. Rajmal D. Jain (Retired PRL Scientist, PI of SOXS Mission & RAS Fellow).
-* **Team Members:** Our solar physics and space weather research team includes Prof. Rajmal D. Jain, Dr. Arun Awasthi, Prof. Andrew J. Coates, Prof. Dhiren Kataria, Ms. Dipali Burud, and Ms. Sneha Chaudhari.
+* **Team Members:** Our solar physics and space weather research team includes Prof. Rajmal D. Jain, Dr. Arun Awasthi, Prof. Andrew J. Coates, Prof. Dhiren Kataria, Dr. Shirsh Lata Soni, Prof, Vandana Luthra
 
 ## Material Science & R&D Experience
 
