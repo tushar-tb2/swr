@@ -34,7 +34,7 @@ As a Junior Research Fellow at the **FCIPT-Institute for Plasma Research** (an a
 
 I am highly motivated to expand my technical skill set and am actively working towards becoming a Full-Stack Developer.
 
-* **Current Tech Stack:** VS Code, HTML, CSS, and GitHub.
+* **Current Tech Stack:** VS Code, HTML, CSS, AI tools, GitHub.
 * **Future Goals:** Planning to master JavaScript, PHP, Python, and Data Science.
 
 ## Open to Work & Freelance Opportunities
