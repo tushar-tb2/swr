@@ -21,10 +21,11 @@ As a Junior Research Fellow at the **FCIPT-Institute for Plasma Research** (an a
 
 ## Industry & Teaching Experience
 
-* **Lecturer (Degree & Diploma):** Served as an engineering lecturer. Under my supervision, a team of two diploma students submitted a "3D Cam Measure" project, which won a $650 reward and secured them job offers post-graduation. This also led to collaboration offers from Red Hat.
+* **Lecturer (Degree & Diploma):** Served as an engineering lecturer for colleges and BISAG online lectures. Under my supervision, a team of two diploma students submitted a "3D Cam Measure" project, which won a $650 reward and secured them job offers post-graduation. This also led to collaboration offers from Red Hat.
 * **Quality Control Chemist:** Worked in a pharmaceutical formulation lab following US, BP, and IP medicinal drug protocols at Jay Formulations Ltd.
-* **Translator (Govt. of India):** Currently appointed as a translator for engineering physics for the SWAYAM online and broadcasting project.
-* **Proofreader:** Proofread materials for math, science, physics, and biology at Kumar Prakashan Kendra, Ahmedabad.
+* **Translator (Govt. of India):** A translator for engineering physics for the SWAYAM online and broadcasting project.
+* **Proofreader:** Proofread materials for math, science, physics, and biology.
+*  **Robotics:** Currently, exploring Robotics and AI tools.  
 
 ## Technical Skills & Software Development
 
@@ -38,6 +39,6 @@ I am highly motivated to expand my technical skill set and am actively working t
 I am currently available for and interested in the following opportunities:
 
 * **Technical Roles:** Physical Vapor Deposition, instrumentation operation and maintenance, and data analysis for Space Weather/Solar Physics.
-* **Freelance/Online Work:** Website and logo design.
+* **Freelance/Online Work:** Data analysis, blogs, Website, logo design
 * **Linguistics:** Translation (English, Hindi, Gujarati) and Proofreading (Math, Science, Physics).
-* **Education:** Coaching and tutoring for Physics, Electronics, Math, and Coding.
+* **Education:** Coaching and tutoring for Physics, Electronics, Math, Robotics, AI
