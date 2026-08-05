@@ -2,7 +2,7 @@
 
 I am **Tushar N. Bhatt**, currently conducting Space Weather Research (SWR) data analysis for my PhD. I am a passionate researcher and continuous learner, constantly exploring new domains ranging from space physics and material science to software development.
 
-## Academic Research: Space Weather & Solar Physics
+## Academic Research: Solar Physics & Space Weather Research
 
 My doctoral research focuses on understanding how our neighboring planets behave compared to Earth when influenced by solar transients, such as coronal mass ejections (CMEs) and corotating interaction regions. This study satisfies our curiosity about Earth's past, present, and future in space, which is critical for human survival and the protection of satellite communications.
 
