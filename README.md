@@ -9,6 +9,8 @@ My doctoral research focuses on understanding how our neighboring planets behave
 * **Methodology:** I utilize various spacecraft observations alongside Community Coordinated Modeling Center (CCMC) models organized by NASA (USA).
 * **Collaborators & Support:** This research is made possible with invaluable support from Prof. Andrew J. Coates (PI of ELS/CAPS, Cassini Mission), Prof. Dhiren Kataria (Professorial Research Associate), and Mr. Paul Prior (Linux System Administrator) at the Mullard Space Science Laboratory (MSSL), University College London (UCL), UK. I am also guided by my first supervisor, Prof. Rajmal D. Jain (Retired PRL Scientist, PI of SOXS Mission & RAS Fellow).
 * **Team Members:** Our solar physics and space weather research team includes Prof. Rajmal D. Jain, Dr. Arun Awasthi, Prof. Andrew J. Coates, Prof. Dhiren Kataria, Dr. Shirsh Lata Soni, Prof, Vandana Luthra
+* **Research Papers:** [1] Properties of Type-II Radio Bursts in Relation to Magnetic Complexity of the Solar Active Regions — https://link.springer.com/article/10.1007/s11207-024-02318-7
+[2] Coastal Erosion Monitoring using Multi-temporal Remote Sensing and Sea Surface Temperature Data in Coastal Districts of Gujarat State, India — https://doi.org/10.1080/24749508.2022.2127648
 
 ## Material Science & R&D Experience
 
