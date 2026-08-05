@@ -32,13 +32,13 @@ As a Junior Research Fellow at the **FCIPT-Institute for Plasma Research** (an a
 I am highly motivated to expand my technical skill set and am actively working towards becoming a Full-Stack Developer.
 
 * **Current Tech Stack:** VS Code, HTML, CSS, AI tools, GitHub.
-* **Future Goals:** Planning to master JavaScript, PHP, Python, and Data Science.
+* **Future Goals:** Python, Data Science
 
 ## Open to Work & Freelance Opportunities
 
 I am currently available for and interested in the following opportunities:
 
 * **Technical Roles:** Physical Vapor Deposition, instrumentation operation and maintenance, and data analysis for Space Weather/Solar Physics.
-* **Freelance/Online Work:** Data analysis, blogs, Website, logo design
+* **Freelance/Online Work:** Data analysis, Blogs, Website, Logo design, Market Research, Physics Research 
 * **Linguistics:** Translation (English, Hindi, Gujarati) and Proofreading (Math, Science, Physics).
-* **Education:** Coaching and tutoring for Physics, Electronics, Math, Robotics, AI
+* **Education:** Coaching and Tutoring for Physics, Electronics, Math, Robotics, AI
