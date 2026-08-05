@@ -1,7 +1,3 @@
-Here is a revised, grammatically corrected, and well-organized version of your profile content. I have broken it down into clear sections with bullet points to make it highly readable and professional.
-
----
-
 # Profile
 
 I am **Tushar N. Bhatt**, currently conducting Space Weather Research (SWR) data analysis for my PhD. I am a passionate researcher and continuous learner, constantly exploring new domains ranging from space physics and material science to software development.
